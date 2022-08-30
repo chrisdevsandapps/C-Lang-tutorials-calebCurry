@@ -1,0 +1,24 @@
+
+
+.DS_Store
+
+/.vscode
+
+.vscode/
+
+.vscode/*
+
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/configurationCache.log
+!.vscode/targets.log
+
+
+
+# code below is to ignore gcc binary output: hello
+
+hello
+*hello
+
